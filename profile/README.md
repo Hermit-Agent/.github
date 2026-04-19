@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/logo.png" alt="Hermit" width="160" />
-  <h1>Hermit</h1>
+  <h1>  H  E  R  M  I  T  </h1>
   <p>A self-improving AI agent with coding ability and a second brain.</p>
 
   [![License: MIT](https://img.shields.io/badge/license-MIT-teal.svg)](LICENSE)
